@@ -10,4 +10,11 @@ public class BasicTestingTestTest {
 
         assertTrue(true);
     }
+
+    @Test
+    public void butMaybeItWill() {
+
+        assertTrue(true);
+        assertTrue(false);
+    }
 }
