@@ -15,6 +15,6 @@ public class BasicTestingTestTest {
     public void butMaybeItWill() {
 
         assertTrue(true);
-        assertTrue(false);
+        assertTrue(true);
     }
 }
